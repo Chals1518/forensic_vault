@@ -5,3 +5,4 @@ __pycache__
 forensic_vault.db
 uploads/
 *.enc
+key.json
